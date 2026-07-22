@@ -6,7 +6,7 @@ About this Project
 Mini Reinforced Concrete bridge model:
 
 This bridge was one of my first engineering models. I built it during winter vacations in early 2025. I started building it with a simple question: Could I build a scaled model of a realistic concrete bridge using real materials?
-Although this was a scaled model, building it helped me to understand the importance of structural stability and careful planning. I learned these concepts through trial and error rather than from a textbook. To make the model more realistic, I also installed small LED fairy lights.
+Although it was only a small model, rebuilding the collapsed pillars showed me how much even a small design change can affect a structure's strength. I learned these concepts through trial and error rather than from a textbook. To make the model more realistic, I also installed small LED fairy lights.
 
 Materials used:
 
@@ -38,7 +38,7 @@ Working on this project helped me to understand several engineering concepts, in
    
 Challenges:
 
-My biggest challenge was designing stable bridge pillars. The original pillars were too thin and collapsed after I removed the bridge deck support. Instead of abandoning the project, I redesigned the pillars with a larger diameter and reinforced them using steel wire. This experience taught me that even small design decisions can have a significant impact on structural stability.
+My biggest challenge was designing stable bridge pillars. When I removed the temporary support under the bridge deck, the pillars cracked almost immediately and the deck collapsed. At first, I thought the concrete mixture was weak. After looking more carefully, I realized the real problem was the pillar design—they were simply too narrow and vulnerable to support the load. I rebuilt them with a larger diameter and added steel wire reinforcement This experience taught me that even small design decisions can have a significant impact on structural stability.
 
 Future Improvements:
 
@@ -49,4 +49,3 @@ If I rebuild this project, then I’d like to:
 2.	Add an automatic lighting system that turns on at night using a light sensor.
 
 3.	Incorporate moving bridge gates using Arduino.
- bridge gates controlled by Arduino.
