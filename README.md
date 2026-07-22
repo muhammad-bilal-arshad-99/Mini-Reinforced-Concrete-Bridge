@@ -5,7 +5,7 @@ About this Project
 
 Mini Reinforced Concrete bridge model:
 
-This bridge was one of my first engineering models. I built it during winter vacations in early 2025. I started building it with a simple question: Could I build a scaled model of a realistic concrete bridge using real materials?
+This bridge was one of my first engineering models. I built it during winter vacations in Junuary 2025. I started building it with a simple question: Could I build a scaled model of a realistic concrete bridge using real materials?
 Although it was only a small model, rebuilding the collapsed pillars showed me how much even a small design change can affect a structure's strength. I learned these concepts through trial and error rather than from a textbook. To make the model more realistic, I also installed small LED fairy lights.
 
 Materials used:
