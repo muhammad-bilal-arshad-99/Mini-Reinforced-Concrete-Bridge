@@ -14,7 +14,7 @@ Although it was only a small model, rebuilding the collapsed pillars showed me h
 
 2. Sand
 
-3.Steel Wire
+3. Steel Wire
 
 4. Pebbles
 
